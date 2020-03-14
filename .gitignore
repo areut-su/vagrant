@@ -1,0 +1,9 @@
+/vagrant/.vagrant/
+/vagrant/vagrant/nginx/log/
+.idea/
+vagrant/Vagrantfile
+vagrant/vagrant/config/.gitignore
+vagrant/vagrant/config/vagrant-local.example.yml
+vagrant/vagrant/nginx/app-go.conf
+vagrant/vagrant/nginx/app.conf
+vagrant/vagrant/provision/
