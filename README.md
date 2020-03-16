@@ -17,7 +17,7 @@
    
     
 ## Install
-    git  clone 
+    git  clone https://github.com/areut-su/vagrant.git
 
 ## Usage 
     vagrant up
